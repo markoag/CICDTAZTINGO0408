@@ -1,0 +1,12 @@
+[
+  {"constructorId": 1, "constructorRef": "mclaren", "name": "McLaren", "nationality": "British", "url": "http://en.wikipedia.org/wiki/McLaren"},
+  {"constructorId": 2, "constructorRef": "bmw_sauber", "name": "BMW Sauber", "nationality": "German", "url": "http://en.wikipedia.org/wiki/BMW_Sauber"},
+  {"constructorId": 3, "constructorRef": "williams", "name": "Williams", "nationality": "British", "url": "http://en.wikipedia.org/wiki/Williams"},
+  {"constructorId": 4, "constructorRef": "renault", "name": "Renault", "nationality": "French", "url": "http://en.wikipedia.org/wiki/Renault"},
+  {"constructorId": 5, "constructorRef": "toro_rosso", "name": "Toro Rosso", "nationality": "Italian", "url": "http://en.wikipedia.org/wiki/Toro_Rosso"},
+  {"constructorId": 6, "constructorRef": "ferrari", "name": "Ferrari", "nationality": "Italian", "url": "http://en.wikipedia.org/wiki/Scuderia_Ferrari"},
+  {"constructorId": 7, "constructorRef": "toyota", "name": "Toyota", "nationality": "Japanese", "url": "http://en.wikipedia.org/wiki/Toyota_F1"},
+  {"constructorId": 8, "constructorRef": "super_aguri", "name": "Super Aguri", "nationality": "Japanese", "url": "http://en.wikipedia.org/wiki/Super_Aguri_F1"},
+  {"constructorId": 9, "constructorRef": "red_bull", "name": "Red Bull", "nationality": "Austrian", "url": "http://en.wikipedia.org/wiki/Red_Bull_Racing"},
+  {"constructorId": 10, "constructorRef": "force_india", "name": "Force India", "nationality": "Indian", "url": "http://en.wikipedia.org/wiki/Force_India"}
+]
