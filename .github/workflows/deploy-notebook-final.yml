@@ -112,7 +112,7 @@ jobs:
       run: |
         DEST_BASE="/smartdata/proceso"
         CLUSTER_ID="${{ env.CLUSTER_ID }}"
-        STORAGE_ACCOUNT="adstaztingo0408prod"
+        STORAGE_ACCOUNT="adstaztingo0408"
         CATALOG="catalog_proyecto_final"
 
         echo "Creando workflow: WF_Medallion_ProyectoFinal con cluster existente ID: $CLUSTER_ID"
@@ -385,6 +385,6 @@ jobs:
         echo "✅ Workflow creado: WF_Medallion_ProyectoFinal"
         echo "✅ Tareas: prepambiente -> (ingest_ecommerce + ingest_instacart) -> transform -> load -> grants"
         echo "✅ Cluster reutilizado: Cluster_SD"
-        echo "✅ Storage account: adstaztingo0408prod"
+        echo "✅ Storage account: adstaztingo0408"
         echo ""
         echo "🔗 Accede a tu workspace de Databricks para ver los resultados detallados"
