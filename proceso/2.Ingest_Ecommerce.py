@@ -18,7 +18,7 @@ from pyspark.sql.functions import current_timestamp, col
 dbutils.widgets.text("container", "raw")
 dbutils.widgets.text("catalogo", "catalog_proyecto_final")
 dbutils.widgets.text("esquema", "bronze")
-dbutils.widgets.text("storageName", "adstaztingo0408prod")
+dbutils.widgets.text("storageName", "adstaztingo0408")
 
 # COMMAND ----------
 

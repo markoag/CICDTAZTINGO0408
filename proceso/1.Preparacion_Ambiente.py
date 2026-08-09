@@ -22,7 +22,7 @@ dbutils.widgets.removeAll()
 
 # COMMAND ----------
 
-dbutils.widgets.text("storageName", "adstaztingo0408prod")
+dbutils.widgets.text("storageName", "adstaztingo0408")
 dbutils.widgets.text("catalogo", "catalog_proyecto_final")
 
 # COMMAND ----------
